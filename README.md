@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaorMoshe11
-- 👀 I’m interested in classic Machine Learning algorithms
-- 🌱 I’m currently learning complex statistics model with high dimention data
-- 💞️ I’m looking to collaborate on projects that will make the world a better palce
-- 📫 you can reach me here or at maor.moshe1@mail.huji.ac.il
+- 👀 I’m interested in Data Science applications
+- 💞️ I’m looking to collaborate on projects that will make the world a better place
+- 📫 you can reach me here or at maorgk@gmail.com
 - ⚡ Fun fact: After i choose the weights, i lift them
 
 <!---
